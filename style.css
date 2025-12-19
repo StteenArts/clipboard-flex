@@ -11,6 +11,10 @@
     --color-green: #4CAF4F;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     margin: 0;
     padding: 0;
